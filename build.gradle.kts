@@ -24,7 +24,6 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	implementation(files("libs/padeg-3.3.0.24.jar"))
-//	compile(files("libs/padeg-3.3.0.24.jar"))
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
